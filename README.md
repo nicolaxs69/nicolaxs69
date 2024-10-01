@@ -4,4 +4,4 @@
 
 - 🔭 I'm currently expanding my knowledge and building projects around machine learning and deep learning.
 
-- 📫 You can reach me on LinkedIn as @nicolasescobarcruz
+- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/nicolasescobarcruz/)

@@ -1,7 +1,5 @@
  ## Nicolas Escobar
 
-- 👋 Hola, I'm a Software Engineer from Colombia. 🇨🇴, currently based in Calgary, Canada 🇨🇦.
+- 👋 Hola, I'm Nicolas nd I do some stuff, mostly software.
 
-- 🔭 I'm currently expanding my knowledge and building projects around machine learning and deep learning.
-
-- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/nicolasescobarcruz/)
+- 🔭 I'm currently expanding my knowledge round machine learning and deep learning.
